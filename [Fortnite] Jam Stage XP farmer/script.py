@@ -10,10 +10,10 @@ from time import sleep, time
 # Hold ';' to stop the script. You will kknow the script has stopped when the 'esc' menu in Fornite opens up.
 
 # duration = (時間 * 60 * 60) + 分 * 60) + 秒
-# 3:30:00が最大XPを得るための最適な時間であることがわかりました
+# 3:40:00が1日で最大のXPを得るための最適な時間です。
 # duration = (hour(s) * 60 * 60) + (minute(s) * 60) + second(s)
-# 3:40:00 is the optimal time to gain the maximum XP
-duration = (2 * 60 * 60) + (30 * 60) + 0
+# 3:40:00 is the optimal time to gain the maximum XP in a day.
+duration = (3 * 60 * 60) + (40 * 60) + 0
 span_duration = (0 * 60 * 60) + (6 * 60) + 0
 start_time = time()
 
