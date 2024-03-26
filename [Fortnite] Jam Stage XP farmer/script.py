@@ -13,7 +13,7 @@ from time import sleep, time
 # 3:40:00が1日で最大のXPを得るための最適な時間です。
 # duration = (hour(s) * 60 * 60) + (minute(s) * 60) + second(s)
 # 3:40:00 is the optimal time to gain the maximum XP in a day.
-duration = (2 * 60 * 60) + (40 * 60) + 0
+duration = (3 * 60 * 60) + (40 * 60) + 0
 span_duration = (0 * 60 * 60) + (6 * 60) + 0
 start_time = time()
 
